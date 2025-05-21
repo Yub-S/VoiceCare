@@ -3,7 +3,7 @@
 
 This repository contains a zipped Android Studio project.
 
-## Instructions for Judges
+## Instructions for installation
 
 1. Download the ZIP file from this repository.
 2. Unzip the file to your preferred location.
